@@ -1,0 +1,45 @@
+{  
+  "systemList": [
+    {
+      "kbn1": "arc",
+      "keiKykCod": "自動車"
+    },
+    {
+      "kbn1": "jso",
+      "keiKykCod": "入力系"
+    }, 
+    {
+      "kbn1": "rcs",
+      "keiKykCod": "鉄道"
+    }, 
+    {
+      "kbn1": "hks",
+      "keiKykCod": "引越"
+    }, 
+    {
+      "kbn1": "juk",
+      "keiKykCod": "重機"
+    }, 
+    {
+      "kbn1": "con",
+      "keiKykCod": "海運"
+    },
+    {
+      "kbn1": "nici",
+      "keiKykCod": "航空際貨輸入"
+    }, 
+    {
+      "kbn1": "nice",
+      "keiKykCod": "航空際貨輸出"
+    }, 
+    {
+      "kbn1": "spd",
+      "keiKykCod": "航空国内"
+    }, 
+    {
+      "kbn1": "itn",
+      "keiKykCod": "移転"
+    }
+    
+  ]
+}
